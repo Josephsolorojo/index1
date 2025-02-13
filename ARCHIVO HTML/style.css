@@ -1,0 +1,112 @@
+body,html{
+    font-family: 'Times New Roman', Times, serif;
+    height: 400%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+align-items: center;
+background: url(pngtree-dark-blue-technology-wallpaper-background-image_454526.jpg) center center;
+background-size: cover;
+}
+
+.contenedor{
+    
+    text-align: center;
+    
+    
+}
+
+
+
+.imagen {
+    width: 1000px;
+    
+    
+    
+}
+.imagen1 {
+    margin-top: 200px;
+    margin-right:300px ;
+    width: 1100px;
+    
+}
+.imagen2 {
+    margin-top: 200px;
+    margin-right:300px ;
+    width: 700px;
+}
+.imagen3 {
+    margin-top: 200px;
+    margin-right:100px ;
+    width: 700px;
+}
+.imagen4 {
+    margin-top: 200px;
+    margin-left:150px ;
+    width: 700px;
+}
+.imagen5 {
+    margin-top: 500px;
+    margin-left:200px ;
+    width: 700px;
+}
+h1{
+    
+    font-size: 300px;
+    
+}
+p{
+    font-size: 100px;
+   
+}
+.titulo{
+    color: white;
+}
+.tex{
+    color:white;
+    
+}
+
+.sub{
+    color: white;
+}
+.tex1{
+    color:white;
+}
+h2{
+    font-size:300px;
+}
+h3{
+    font-size:300px;
+}
+h4{
+    font-size:300px;
+}
+
+.tex2{
+    color:white;
+}
+h5{
+    font-size:300px;
+}
+h6{
+    
+    font-size: 300px;
+    
+}
+.tex3{
+    color:white;
+    
+}
+.tex4{
+    color:white;
+}
+.tex5{
+    color:white;
+}
+h7 {
+    font-size: 300px;
+
+}
+
+
